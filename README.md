@@ -31,14 +31,6 @@
 
 </div>
 
----
-
-## 🏆 Achievements
-
-![trophy](https://github-profile-trophy-tawny.vercel.app/?username=vishal-gupta5&theme=onedark&margin-w=15&no-frame=true)
-
----
-
 
 
 ## 📫 Connect with Me
