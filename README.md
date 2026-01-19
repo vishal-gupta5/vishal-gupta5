@@ -5,15 +5,7 @@
   <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 25px; vertical-align: middle;"/>
 </p>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="15%" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+my+GitHub+profile!;A+Passsionate+Web+developer;" width="84%" />
-</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Boy Programming" width="340" />
-</p>
 
 ## 👦 About Me
 
@@ -21,23 +13,6 @@
 
 - 💻 I love Technology, thinking efficiently, Science and in my free time playing some games or practicing English and reading articles.
 
----
-
-## 📈 GitHub Stats
-
-<div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=vishal-gupta5&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=vishal-gupta5&layout=compact&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" width="48%" />
-</div>
-<br />
-<div>
-  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=vishal-gupta5&layout=compact&theme=react" alt="MatinT-SA github readme top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-gupta5&theme=merko" alt="MatinT-SA github readme activity graph" width="60%" />
-</div>
-
-<br />
-
----
 
 ## 🔧 Technologies & Tools
 
