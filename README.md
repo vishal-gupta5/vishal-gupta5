@@ -9,7 +9,7 @@
 
 ## 👦 About Me
 
-- 👩‍💻 Web Developer fully dedicated to JavaScript -> ReactJS | Node.js | Express.js | MongoDb | Tailwindcss.
+- 👩‍💻 Web Developer fully dedicated to JavaScript -> ReactJS | Node.js | Express.js | MongoDb | Tailwindcss. 
 
 - 💻 I love Technology, thinking efficiently, Science and in my free time playing some games or practicing English and reading articles.
 
