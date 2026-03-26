@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=vishal-gupta5&color=blue" alt="Profile Views" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Birth_Year-2003-pink" alt="Birth Year" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Learning-Next.js%20%26%20TypeScript-yellow" alt="Learning" style="height: 25px; vertical-align: middle;"/>
