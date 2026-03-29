@@ -15,7 +15,7 @@
 
 
 ## 🔧 Technologies & Tools  
-
+      
 <div align="center">  
 
 | Frontend Technologies                                                                                                               | Backend Technologies                                                                                                                | Databases                                                                                                                                       | Tools & Libraries                                                                                                                           | Deployment Tools                                                                                                                      |
