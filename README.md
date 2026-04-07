@@ -14,7 +14,7 @@
 
 - 💻 I love Technology, thinking efficiently, Science and in my free time playing some games or practicing English and reading articles.
 
-
+  
 ## 🔧 Technologies & Tools  
       
 <div align="center">  
