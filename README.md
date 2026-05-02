@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 25px; vertical-align: middle;"/>   
 </p>
    
-    
+     
      
 
 ## 👦 About Me   
