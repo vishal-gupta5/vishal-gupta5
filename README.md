@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Learning-Next.js%20%26%20TypeScript-yellow" alt="Learning" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 25px; vertical-align: middle;"/>   
 </p>
-   
+    
         
       
 
