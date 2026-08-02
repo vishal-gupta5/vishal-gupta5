@@ -39,6 +39,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vishal-guptaaa/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vishal_.vaish/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=9368887893&text=hi%20Vishal.%20how%20are%20you%3F)
-[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vish5lgupt5)
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vishal_vaish)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F48024?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/30034029/vishal-gupta)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:guptavishalsirohi@gmail.com)
