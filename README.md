@@ -12,7 +12,7 @@
  
 - 👩‍💻 Web Developer fully dedicated to JavaScript -> ReactJS | Node.js | Express.js | MongoDb | Tailwindcss. 
 
-- 💻 I love Technology, thinking efficiently, Science and in my free time playing some games or practicing English and reading articles. 
+- 💻 I enjoy building scalable applications, solving challenging problems, and learning something new every day. In my free time, I practice English, read tech articles, and play games.
  
 
 ## 🔧 Technologies & Tools
